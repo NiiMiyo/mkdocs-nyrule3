@@ -1,6 +1,6 @@
 # Lyra Windsong
 
-Uma qareen meio-humana de uma descendência misteriosa de qareens capazes de controlar os sonhos. Nasceu e cresceu em Eldenhaven, um pequeno reino ao norde da Central.
+Uma qareen meio-humana de uma descendência misteriosa de qareens capazes de controlar os sonhos. Nasceu e cresceu em Eldenhaven, um pequeno reino ao norte da Central.
 
 Aos 10 anos teve que presenciar seus pais tendo que se sacrificar para salvar ela e sua irmã de um ataque de um grupo que planeja libertar um ser de pesadelos e instaurar o caos no mundo. Ao fugir de casa e ir para Kenshima é acolhida e aprende a arte da esgrima.
 
@@ -10,15 +10,10 @@ No seu aniversário de 18 anos sua irmã desaparece misteriosamente e agora Lyra
 
 ### Lugares
 
-- **Eldenhaven**
-	- Cidade natal de Lyra. Uma cidade portuária nas margens de um pequeno reino.
-- **Mansão dos Windsong**
-	- Casa da família Windsong, agora só restam cinzas.
-- **Wishrealm, o Mundo dos Desejos**
-	- Selado por Wishkar após diversas tentativas de liberar Desirebane.
-	- A chave para sua libertação havia sido dividida em cinco fragmentos e esquecida pelo tempo.
-- **Kenshima**
-	- Uma cidade segura para Lyra e Rosalind.
+- **[Eldenhaven:](../../Lugares/Cidades/Eldenhaven.md)** Cidade natal de Lyra.
+- **Mansão dos Windsong:** Casa da família Windsong, agora só restam cinzas.
+- **Wishrealm, o Mundo dos Desejos:** Selado por Wishkar após diversas tentativas de liberar Desirebane. A chave para sua libertação havia sido dividida em cinco fragmentos e esquecida pelo tempo.
+- **[Kenshima:](../../Lugares/Cidades/Kenshima.md)** Uma cidade segura para Lyra e Rosalind.
 
 ### Pessoas
 
@@ -61,7 +56,7 @@ No seu aniversário de 18 anos sua irmã desaparece misteriosamente e agora Lyra
 	- Um portador do poder dos desejos que surge periodicamente para combater as ameaças externas que tentavam invadir o mundo dos desejos e libertar seu mestre de sua prisão.
 - **Desírios**
 	Grupo cujo objetivo é liberar o poder do Desirebane. São responsáveis pela morte de Elysia e Lysander Windsong e por destruir e incendiar a mansão dos Windsong em Eldenhaven.
-- [**Wish Crystal**](../Objetos/wish_crystal.md)
+- [**Wish Crystal**](../../Objetos/wish_crystal.md)
 - **Colar de Elysia**
 	- A chave para o passado e o futuro. Um colar com o nome “Wishmore” cravado. Passado de geração em geração pela família de Elysia, agora está em posse de Lyra.
 - **Kenka Kyoudai**

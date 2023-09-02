@@ -72,4 +72,4 @@ Pela duração da magia, sempre que o alvo realizar qualquer ação que gaste PM
 
 ### Tesouro
 
-Além do tesouro padrão, possui três [Wish Crystal](/objetos/Wish_Crystal) em sua bolsa lateral, o que significa que pode recarregar seu Selo de Mana apenas três vezes. Qualquer Wish Crystal não usado pode ser recuperado pelos jogadores.
+Além do tesouro padrão, possui três [Wish Crystal](../../Objetos/wish_crystal.md) em sua bolsa lateral, o que significa que pode recarregar seu Selo de Mana apenas três vezes. Qualquer Wish Crystal não usado pode ser recuperado pelos jogadores.
