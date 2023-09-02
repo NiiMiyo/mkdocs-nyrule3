@@ -7,3 +7,4 @@ plugins:
 
 extra_css:
   - assets/css/gallery.css
+  - assets/css/justify.css

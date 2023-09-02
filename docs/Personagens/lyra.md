@@ -67,6 +67,8 @@ No seu aniversário de 18 anos sua irmã desaparece misteriosamente e agora Lyra
 - **Kenka Kyoudai**
 	- Uma equipe de lutadores em busca de glória.
 
+## [Ficha Automática no Google Spreadsheets](https://docs.google.com/spreadsheets/d/1vJ8J6lAk8CXkqEiG_mhXqTotBcfpCafflydU-jUDAAQ/edit#gid=1711337807?usp=sharing)
+
 ## Galeria
 
 <div class="gallery">
