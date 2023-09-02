@@ -1,0 +1,9 @@
+site_name: Nyrule 3
+
+theme: pulse
+plugins:
+  - search
+  - macros
+
+extra_css: []
+  # - ../css/font.css
