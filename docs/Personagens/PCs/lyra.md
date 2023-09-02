@@ -56,7 +56,7 @@ No seu aniversário de 18 anos sua irmã desaparece misteriosamente e agora Lyra
 	- Um portador do poder dos desejos que surge periodicamente para combater as ameaças externas que tentavam invadir o mundo dos desejos e libertar seu mestre de sua prisão.
 - **Desírios**
 	Grupo cujo objetivo é liberar o poder do Desirebane. São responsáveis pela morte de Elysia e Lysander Windsong e por destruir e incendiar a mansão dos Windsong em Eldenhaven.
-- [**Wish Crystal**](../../Objetos/wish_crystal.md)
+- [**Wish Crystal**](../../Objetos/Wish_Crystal.md)
 - **Colar de Elysia**
 	- A chave para o passado e o futuro. Um colar com o nome “Wishmore” cravado. Passado de geração em geração pela família de Elysia, agora está em posse de Lyra.
 - **Kenka Kyoudai**
