@@ -8,7 +8,7 @@ A cidade conta com:
 * Uma grande igreja para o Deus Oceano;
 * Uma igreja um pouco menor para Marah;
 * Uma igreja compartilhada entre outras divindades positivas e neutras, sendo essas Khalmyr, Allihanna e Tanna-Toh;
-* Uma grande biblioteca com livros sobre diversos conteúdos especialmente história.
+* Uma grande biblioteca com livros sobre diversos conteúdos, especialmente história e política.
 
 ## Sessão 01
-Lyra, Iaris, Luciel e Venessa descobrem sobre o sequestro de Rue e a resgatam na gruta à noroeste, na nascente do rio.
+Lyra, Iaris, Luciel e Venessa descobrem sobre o sequestro de Rue e a resgatam na [gruta à noroeste](../Outros/Gruta_de_Sequestradores.md), na nascente do rio.
