@@ -8,3 +8,6 @@ plugins:
 extra_css:
   - assets/css/gallery.css
   - assets/css/justify.css
+  - assets/css/headers.css
+  - assets/css/toc-collapse.css
+  - assets/css/navbar-collapse.css
