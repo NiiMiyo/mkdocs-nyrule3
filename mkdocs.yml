@@ -5,5 +5,5 @@ plugins:
   - search
   - macros
 
-extra_css: []
-  # - ../css/font.css
+extra_css:
+  - assets/css/gallery.css
