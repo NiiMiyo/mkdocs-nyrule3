@@ -11,3 +11,6 @@ extra_css:
   - assets/css/headers.css
   - assets/css/toc-collapse.css
   - assets/css/navbar-collapse.css
+  - assets/css/link.css
+  - assets/css/table.css
+  - assets/css/input.css

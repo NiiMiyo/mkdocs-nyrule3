@@ -34,7 +34,7 @@ Morto-vivo Médio
 
 | PV                                                                               | Defesa | Deslocamento |
 | -------------------------------------------------------------------------------- | ------ | ------------ |
-| <input type="number" min="0" max="{{page.meta.MAX_PV}}" value="0"/> {{ page.meta.MAX_PV }} | 24     | 9m           |
+| <input type="number" min="0" max="{{page.meta.MAX_PV}}" value="0"/> / {{ page.meta.MAX_PV }} | 24     | 9m           |
 
 ### Atributos e Perícias
 
