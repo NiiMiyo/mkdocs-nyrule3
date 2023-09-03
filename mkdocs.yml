@@ -4,6 +4,43 @@ theme: pulse
 plugins:
   - search
   - macros
+  - pageref:
+      matches:
+        - pattern: Nyrule
+          page: docs/Lugares/Nyrule.md
+
+        - pattern: Wish Crystal
+          page: docs/Objetos/Wish_Crystal.md
+
+        - pattern: Sepell
+          page: docs/Lugares/Sepell.md
+
+        - pattern: Eldenhaven
+          page: docs/Lugares/Eldenhaven.md
+
+        - pattern: Malgrim
+          page: docs/Personagens/NPCs/Malgrim.md
+
+        - pattern: Saevel( Caiphine)?
+          page: docs/Personagens/NPCs/Saevel.md
+
+        - pattern: Iaris
+          page: docs/Personagens/PCs/Iaris.md
+
+        - pattern: Luciel
+          page: docs/Personagens/PCs/Luciel.md
+
+        - pattern: Venessa
+          page: docs/Personagens/PCs/Venessa.md
+
+        - pattern: Lyra( Windsong)?
+          page: docs/Personagens/PCs/Lyra.md
+
+        - pattern: Kata da Pata de Gato
+          page: docs/Personagens/Worldbuild/Kata_Gato.md
+
+        - pattern: Kumite da Raposa
+          page: docs/Personagens/Worldbuild/Kumite_Raposa.md
 markdown_extensions:
   - markdown_captions
   - tables

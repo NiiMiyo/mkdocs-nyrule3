@@ -10,10 +10,10 @@ No seu aniversário de 18 anos sua irmã desaparece misteriosamente e agora Lyra
 
 ### Lugares
 
-- **[Eldenhaven:](../../Lugares/Cidades/Eldenhaven.md)** Cidade natal de Lyra.
+- **Eldenhaven:** Cidade natal de Lyra.
 - **Mansão dos Windsong:** Casa da família Windsong, agora só restam cinzas.
 - **Wishrealm, o Mundo dos Desejos:** Selado por Wishkar após diversas tentativas de liberar Desirebane. A chave para sua libertação havia sido dividida em cinco fragmentos e esquecida pelo tempo.
-- **[Kenshima:](../../Lugares/Cidades/Kenshima.md)** Uma cidade segura para Lyra e Rosalind.
+- **Kenshima:** Uma cidade segura para Lyra e Rosalind.
 
 ### Pessoas
 
@@ -56,7 +56,7 @@ No seu aniversário de 18 anos sua irmã desaparece misteriosamente e agora Lyra
 	- Um portador do poder dos desejos que surge periodicamente para combater as ameaças externas que tentavam invadir o mundo dos desejos e libertar seu mestre de sua prisão.
 - **Desírios**
 	Grupo cujo objetivo é liberar o poder do Desirebane. São responsáveis pela morte de Elysia e Lysander Windsong e por destruir e incendiar a mansão dos Windsong em Eldenhaven.
-- [**Wish Crystal**](../../Objetos/Wish_Crystal.md)
+- **Wish Crystal**
 - **Colar de Elysia**
 	- A chave para o passado e o futuro. Um colar com o nome “Wishmore” cravado. Passado de geração em geração pela família de Elysia, agora está em posse de Lyra.
 - **Kenka Kyoudai**

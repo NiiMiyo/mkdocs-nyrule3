@@ -12,15 +12,15 @@ Foi derrotado cerca de 100 anos atrás por um grupo de quatro aventureiros após
 
 Sabe-se que três dos aventureiros morreram nessa luta, o único sobrevivente voltou e nunca mais ousou se aventurar. Hoje já não se sabe se sequer está vivo.
 
-Mas a verdade é que esse aventureiro era [Saevel Caiphine](./Saevel.md), que depois de perder seus aliados em batalha decidiu deixar de ser um aventureiro.
+Mas a verdade é que esse aventureiro era Saevel Caiphine, que depois de perder seus aliados em batalha decidiu deixar de ser um aventureiro.
 
 ## Atualmente
 
-Foi revivido como servo de [Saevel Caiphine](./Saevel.md) para que continue suas pesquisas em almas como um zumbi.
+Foi revivido como servo de Saevel Caiphine para que continue suas pesquisas em almas como um zumbi.
 
-Malgrim foi capaz de encontrar uma brecha nas ordens de [Saevel](./Saevel.md) e pôde lançar **Marionete** em si mesmo para recobrar o controle do próprio corpo zumbificado sem que [Saevel](./Saevel.md) saiba. Mesmo assim, o controle adquirido é limitado à fala.
+Malgrim foi capaz de encontrar uma brecha nas ordens de Saevel e pôde lançar **Marionete** em si mesmo para recobrar o controle do próprio corpo zumbificado sem que Saevel saiba. Mesmo assim, o controle adquirido é limitado à fala.
 
-No momento ele continua trabalhando em pesquisas para criar uma manifestação física da força da alma de um indivíduo. Malgrim está trabalhando em [sua antiga base](../../Personagens/NPCs/Malgrim.md) pois deseja ser encontrado novamente por um grupo capaz de derrotá-lo, pois tudo que deseja no momento é a paz do Plano da Morte que tinha antes de ser revivido.
+No momento ele continua trabalhando em pesquisas para criar uma manifestação física da força da alma de um indivíduo. Malgrim está trabalhando em [sua antiga base](../../Lugares/Outros/Castelo%20do%20Malgrim.md) pois deseja ser encontrado novamente por um grupo capaz de derrotá-lo, pois tudo que deseja no momento é a paz do Plano da Morte que tinha antes de ser revivido.
 
 ## Aparência
 
@@ -72,4 +72,4 @@ Pela duração da magia, sempre que o alvo realizar qualquer ação que gaste PM
 
 ### Tesouro
 
-Além do tesouro padrão, possui três [Wish Crystal](../../Objetos/Wish_Crystal.md) em sua bolsa lateral, o que significa que pode recarregar seu Selo de Mana apenas três vezes. Qualquer Wish Crystal não usado pode ser recuperado pelos jogadores.
+Além do tesouro padrão, possui três Wish Crystal em sua bolsa lateral, o que significa que pode recarregar seu Selo de Mana apenas três vezes. Qualquer Wish Crystal não usado pode ser recuperado pelos jogadores.

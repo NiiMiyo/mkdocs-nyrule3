@@ -12,4 +12,4 @@ A cidade conta com:
 * Uma pequena feira durante o dia que vende todos os tipos de produtos mais comuns.
 
 ## Sessão 01
-Lyra, Iaris, Luciel e Venessa descobrem sobre o sequestro de Rue e a resgatam na [gruta à noroeste](../Outros/Gruta_de_Sequestradores.md), na nascente do rio.
+Lyra, Iaris, Luciel e Venessa descobrem sobre o sequestro de Rue e a resgatam na Gruta de Sequestradores, na nascente do rio.
