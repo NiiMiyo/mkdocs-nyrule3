@@ -59,3 +59,6 @@ plugins:
 
         - pattern: Wishrealm(, o Mundo dos Desejos)?
           page: docs/Lugares/Planos/Wishrealm.md
+
+        - pattern: Kenshima
+          page: docs/Lugares/Cidades/Kenshima.md

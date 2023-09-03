@@ -2,7 +2,7 @@
 
 Uma qareen meio-humana de uma descendência misteriosa de qareens capazes de controlar os sonhos. Nasceu e cresceu em Eldenhaven, um pequeno reino ao norte da Central.
 
-Aos 10 anos teve que presenciar seus pais tendo que se sacrificar para salvar ela e sua irmã de um ataque de um grupo que planeja libertar um ser de pesadelos e instaurar o caos no mundo. Ao fugir de casa e ir para Kenshima é acolhida e aprende a arte da esgrima.
+Aos 10 anos teve que presenciar seus pais tendo que se sacrificar para salvar ela e sua irmã de um ataque de um grupo que planeja libertar um ser de pesadelos e instaurar o caos no mundo. Ao fugir de casa e ir para Kenshima é acolhida por Kaori Wuji e seu grupo de lutadores, o Kenka Kyoudai, e aprende a arte da esgrima.
 
 No seu aniversário de 18 anos sua irmã desaparece misteriosamente e agora Lyra busca por ela.
 
