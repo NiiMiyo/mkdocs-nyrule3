@@ -1,6 +1,21 @@
 site_name: Nyrule 3
 
 theme: pulse
+
+markdown_extensions:
+  - markdown_captions
+  - tables
+
+extra_css:
+  - assets/css/gallery.css
+  - assets/css/justify.css
+  - assets/css/headers.css
+  - assets/css/toc-collapse.css
+  - assets/css/navbar-collapse.css
+  - assets/css/link.css
+  - assets/css/table.css
+  - assets/css/input.css
+
 plugins:
   - search
   - macros
@@ -44,17 +59,3 @@ plugins:
 
         - pattern: Wishrealm(, o Mundo dos Desejos)?
           page: docs/Lugares/Planos/Wishrealm.md
-
-markdown_extensions:
-  - markdown_captions
-  - tables
-
-extra_css:
-  - assets/css/gallery.css
-  - assets/css/justify.css
-  - assets/css/headers.css
-  - assets/css/toc-collapse.css
-  - assets/css/navbar-collapse.css
-  - assets/css/link.css
-  - assets/css/table.css
-  - assets/css/input.css
