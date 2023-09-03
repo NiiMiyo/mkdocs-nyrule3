@@ -13,10 +13,10 @@ plugins:
           page: docs/Objetos/Wish_Crystal.md
 
         - pattern: Sepell
-          page: docs/Lugares/Sepell.md
+          page: docs/Lugares/Cidades/Sepell.md
 
         - pattern: Eldenhaven
-          page: docs/Lugares/Eldenhaven.md
+          page: docs/Lugares/Cidades/Eldenhaven.md
 
         - pattern: Malgrim
           page: docs/Personagens/NPCs/Malgrim.md
@@ -37,10 +37,11 @@ plugins:
           page: docs/Personagens/PCs/Lyra.md
 
         - pattern: Kata da Pata de Gato
-          page: docs/Personagens/Worldbuild/Kata_Gato.md
+          page: docs/Worldbuild/Kata_Gato.md
 
         - pattern: Kumite da Raposa
-          page: docs/Personagens/Worldbuild/Kumite_Raposa.md
+          page: docs/Worldbuild/Kumite_Raposa.md
+
 markdown_extensions:
   - markdown_captions
   - tables
