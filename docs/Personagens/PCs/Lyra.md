@@ -12,7 +12,7 @@ No seu aniversário de 18 anos sua irmã desaparece misteriosamente e agora Lyra
 
 - **Eldenhaven:** Cidade natal de Lyra.
 - **Mansão dos Windsong:** Casa da família Windsong, agora só restam cinzas.
-- **Wishrealm, o Mundo dos Desejos:** Selado por Wishkar após diversas tentativas de liberar Desirebane. A chave para sua libertação havia sido dividida em cinco fragmentos e esquecida pelo tempo.
+- **Wishrealm, o Mundo dos Desejos**
 - **Kenshima:** Uma cidade segura para Lyra e Rosalind.
 
 ### Pessoas

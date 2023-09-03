@@ -42,6 +42,9 @@ plugins:
         - pattern: Kumite da Raposa
           page: docs/Worldbuild/Kumite_Raposa.md
 
+        - pattern: Wishrealm(, o Mundo dos Desejos)?
+          page: docs/Lugares/Planos/Wishrealm.md
+
 markdown_extensions:
   - markdown_captions
   - tables
