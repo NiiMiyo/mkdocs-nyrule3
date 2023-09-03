@@ -4,6 +4,9 @@ theme: pulse
 plugins:
   - search
   - macros
+markdown_extensions:
+  - markdown_captions
+  - tables
 
 extra_css:
   - assets/css/gallery.css
