@@ -1,6 +1,12 @@
 site_name: Nyrule 3
 
-theme: pulse
+theme:
+  name: pulse
+  locale: pt
+  navigation_depth: 3
+  prev_next_buttons_location: bottom
+  collapse_navigation: true
+  logo: /assets/images/logo.png
 
 markdown_extensions:
   - markdown_captions
