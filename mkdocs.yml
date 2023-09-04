@@ -15,6 +15,8 @@ extra_css:
   - assets/css/link.css
   - assets/css/table.css
   - assets/css/input.css
+  - assets/css/blockquote.css
+  - assets/css/ul.css
 
 plugins:
   - search
