@@ -120,69 +120,65 @@ apenas magias que tenham como alvo uma criatura ou objeto, ou que tenham efeito 
 
 Quando fabrica uma poção, você pode aplicar aprimoramentos nela, até seu limite de gasto de PM, como se estivesse lançando a magia. O custo e a CD do teste de Ofício são ajustados de acordo. Quando fabrica um pergaminho, você não pode aplicar aprimoramentos. Porém, pode fazer isso ao ativá-lo.
 
-#### Fichas dos inimigos
 
-#### Bandido
+#### Ficha de Ameaça - Bandido
 
 Humanoide (humano) Médio
 
-**PV 6  —  Defesa 13**
+| PV  | Defesa | Deslocamento |
+| --- | ------ | ------------ |
+| 6   | 13     | 9m           |
+
+##### Atributos e Perícias
+
+| Atributo     | Modificador ||| Perícia     | Modificador |
+| ------------ | ----------- ||| ----------- | ----------- |
+| Força        | 1           ||| Furtividade | +5          |
+| Destreza     | 2           ||| Iniciativa  | +4          |
+| Constituição | 1           ||| Reflexos    | +3          |
+| Inteligência | 0           ||| Percepção   | +1          |
+| Sabedoria    | -1          ||| Fortitude   | +1          |
+| Carisma      | 0           ||| Vontade     | -1          |
+
+##### Ataques
 
 **Corpo a Corpo:** Clava +7 (1d6+3)
 
-| Atributo     | Modificador |
-| ------------ | ----------- |
-| Força        | 1           |
-| Destreza     | 2           |
-| Constituição | 1           |
-| Inteligência | 0           |
-| Sabedoria    | -1          |
-| Carisma      | 0           |
-
-| Perícia     | Modificador |
-| ----------- | ----------- |
-| Furtividade | +5          |
-| Iniciativa  | +4          |
-| Reflexos    | +3          |
-| Percepção   | +1          |
-| Fortitude   | +1          |
-| Vontade     | -1          |
-
-**Deslocamento:** 9m (6 quadrados)
-
-**Equipamento:** Clava
+##### Tesouro
 
 **Tesouro:** Metade.
 
-#### Chefe Bandido
+**Equipamento:** Clava
+
+#### Ficha de Ameaça - Chefe Bandido
 
 Humanoide (humano) Médio
 
-**PV 30 — Defesa 16**
+| PV  | Defesa | Deslocamento |
+| --- | ------ | ------------ |
+|30|16|9m|
+
+##### Atributos e Perícias
+
+| Atributo     | Modificador ||| Perícia     | Modificador |
+| ------------ | ----------- ||| ----------- | ----------- |
+| Força        | 3           ||| Reflexos    | +8          |
+| Destreza     | 2           ||| Furtividade | +7          |
+| Constituição | 2           ||| Intimidação | +6          |
+| Inteligência | 0           ||| Fortitude   | +5          |
+| Sabedoria    | 0           ||| Vontade     | +3          |
+| Carisma      | 1           ||
+
+##### Ataques
 
 **Corpo a Corpo:** Espada curta +9 (1d6+5, 19)
 
+##### Habilidades
+
 **Ataque Furtivo.** Uma vez por rodada, o chefe bandido causa +2d6 pontos de dano com ataques corpo a corpo, ou à distância em alcance curto, contra alvos desprevenidos ou que esteja flanqueando.
 
-| Atributo     | Modificador |
-| ------------ | ----------- |
-| Força        | 3           |
-| Destreza     | 2           |
-| Constituição | 2           |
-| Inteligência | 0           |
-| Sabedoria    | 0           |
-| Carisma      | 1           |
-
-| Perícia     | Modificador |
-| ----------- | ----------- |
-| Reflexos    | +8          |
-| Furtividade | +7          |
-| Intimidação | +6          |
-| Fortitude   | +5          |
-| Vontade     | +3          |
-
-**Deslocamento:** 9m (6 quadrados)
-
-**Equipamento:** Adaga, espada curta
+##### Tesouro
 
 **Tesouro:** Padrão
+
+**Equipamento:** Adaga, espada curta
