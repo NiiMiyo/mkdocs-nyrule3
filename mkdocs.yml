@@ -33,7 +33,7 @@ plugins:
         - pattern: Eldenhaven
           page: docs/Lugares/Cidades/Eldenhaven.md
 
-        - pattern: Malgrim
+        - pattern: Malgrim(, o Mago das Almas)?
           page: docs/Personagens/NPCs/Malgrim.md
 
         - pattern: Saevel( Caiphine)?

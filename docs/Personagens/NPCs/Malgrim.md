@@ -24,9 +24,11 @@ No momento ele continua trabalhando em pesquisas para criar uma manifestação f
 
 ## Aparência
 
-Um zumbi humano usando um manto negro. A maior parte do seu corpo possui carne podre, mas algumas partes possuem apenas o esqueleto, como sua mão esquerda.
+Um zumbi humano usando um manto negro. A maior parte do seu corpo possui carne podre, mas algumas partes possuem apenas o esqueleto, como sua mão esquerda e a maior parte do seu torso.
 
-Possui uma parte do seu cérebro exposta.
+Seu coração está parcialmente exposto, podendo ser visto através das costelas.
+
+![Miniatura do Malgrim](../../assets/images/malgrim-body.jpeg)
 
 ## Ficha de Ameaça (ND 4)
 
@@ -56,7 +58,7 @@ Morto-vivo Médio
 
 #### Fraqueza Zumbi
 
-O zumbi sofre o dobro de dano de acertos críticos ou de ataques feitos contra seu cérebro (Defesa 21). **Falar da fraqueza se eles acertarem um golpe físico.**
+O zumbi sofre o dobro de dano de acertos críticos ou de ataques feitos contra seu <s>cérebro</s> coração (Defesa 21). **Falar da fraqueza se eles acertarem um golpe corpo a corpo.**
 
 #### Raio Elemental - Trevas
 
