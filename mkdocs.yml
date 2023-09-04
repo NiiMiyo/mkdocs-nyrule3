@@ -62,3 +62,9 @@ plugins:
 
         - pattern: Kenshima
           page: docs/Lugares/Cidades/Kenshima.md
+
+        - pattern: Apoçãotrar o Crowhey
+          page: docs/Objetos/Apocaotrar_Crowhey.md
+
+        - pattern: Crowhey( Semore)?
+          page: docs/Personagens/NPCs/Crowhey.md
