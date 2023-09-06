@@ -4,7 +4,7 @@ Essa documentação é onde eu, [Nii Miyo](https://github.com/NiiMiyo), organizo
 
 ## **Aviso para os jogadores**
 
-Esse repositório é público porque o GitHub Pages só funciona de graça em repositórios públicos. Então se você joga o RPG comigo essa página é a única que eu posso garantir que não tem spoilers. **Cuidado ao acessar qualquer outra página.**
+Eu uso esse site pra organizar completamente tudo sobre o RPG, então se você joga o RPG comigo **NÃO entre nas outras páginas**. Elas podem ter muitos spoilers de coisas que preparei. **Essa página é a única que nunca vai ter spoiler**.
 
 ## O Mundo de Nyrule
 
@@ -13,6 +13,8 @@ Nyrule é um mundo de alta fantasia medieval, repleto de magia, arcanistas, guer
 ![Mapa geográfico](assets/images/nyrule_map-geo.png)
 ![Grid para viagem. Cada célula do grid são 8h de caminhada](assets/images/nyrule_map-grid.png)
 ![Mapa político](assets/images/nyrule_map-politic.png)
+
+Conforme a história avança o mapa também vai se modificando.
 
 ### Geo-Política
 
