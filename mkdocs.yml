@@ -30,7 +30,7 @@ plugins:
   - pageref:
       matches:
         - pattern: Nyrule
-          page: docs/Lugares/Nyrule.md
+          page: docs/index.md
 
         - pattern: Wish Crystal
           page: docs/Objetos/Wish_Crystal.md
