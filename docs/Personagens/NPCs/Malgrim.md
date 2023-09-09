@@ -68,10 +68,10 @@ Você pode gastar uma ação padrão para causar 2d8+8 pontos de dano de trevas 
 
 **Execução:** Padrão; **Alvo:** 1 criatura; **Alcance:** Curto; **Duração**: Cena.
 
-Pela duração da magia, sempre que o alvo realizar qualquer ação que gaste PM, deve fazer um teste de Vontade; se falhar, a ação não tem efeito, mas os PM são gastos mesmo assim. **Lançar a magia novamente apenas altera o alvo.**
+Pela duração da magia, sempre que o alvo realizar qualquer ação que gaste PM, deve fazer um teste de Vontade (CD 18); se falhar, a ação não tem efeito, mas os PM são gastos mesmo assim. **Lançar a magia novamente apenas altera o alvo.**
 
 **Recarga:** Uma ação padrão (quebrar um Wish Crystal na sua mão. Veja [Tesouro](#tesouro)).
 
 ### Tesouro
 
-Além do tesouro padrão, possui três Wish Crystal em sua bolsa lateral, o que significa que pode recarregar seu Selo de Mana apenas três vezes. Qualquer Wish Crystal não usado pode ser recuperado pelos jogadores.
+Além do tesouro padrão, possui três Wish Crystal (usos <input class="mr-1" type="checkbox"/><input class="mr-1" type="checkbox"/><input type="checkbox"/>) em sua bolsa lateral, o que significa que pode recarregar seu Selo de Mana apenas três vezes. Qualquer Wish Crystal não usado pode ser recuperado pelos jogadores.
