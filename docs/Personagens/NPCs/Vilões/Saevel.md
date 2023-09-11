@@ -16,4 +16,4 @@ Desde então Saevel está gradualmente chegando mais perto do seu objetivo e já
 
 Um elfo vampiro de pele acinzentada e cabelos longos e brancos usando uma roupa preta com capa. Sua aparência voltou a ser jovial quando se tornou um vampiro.
 
-![Saevel Caiphine](../../assets/images/saevel.jpeg)
+![Saevel Caiphine](../../../assets/images/saevel.jpeg)

@@ -42,10 +42,10 @@ plugins:
           page: docs/Lugares/Cidades/Eldenhaven.md
 
         - pattern: Malgrim(, o Mago das Almas)?
-          page: docs/Personagens/NPCs/Malgrim.md
+          page: docs/Personagens/NPCs/Vilões/Malgrim.md
 
         - pattern: Saevel( Caiphine)?
-          page: docs/Personagens/NPCs/Saevel.md
+          page: docs/Personagens/NPCs/Vilões/Saevel.md
 
         - pattern: Iaris
           page: docs/Personagens/PCs/Iaris.md
