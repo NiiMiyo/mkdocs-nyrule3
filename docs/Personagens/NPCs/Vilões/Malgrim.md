@@ -1,7 +1,3 @@
----
-MAX_PV: 110
----
-
 # Malgrim, o Mago das Almas
 
 ## Backstory
@@ -20,7 +16,7 @@ Foi revivido como servo de Saevel Caiphine para que continue suas pesquisas em a
 
 Malgrim foi capaz de encontrar uma brecha nas ordens de Saevel e pôde lançar **Marionete** em si mesmo para recobrar o controle do próprio corpo zumbificado sem que Saevel saiba. Mesmo assim, o controle adquirido é limitado à fala.
 
-No momento ele continua trabalhando em pesquisas para criar uma manifestação física da força da alma de um indivíduo. Malgrim está trabalhando em [sua antiga base](../../Lugares/Outros/Castelo%20do%20Malgrim.md) pois deseja ser encontrado novamente por um grupo capaz de derrotá-lo, pois tudo que deseja no momento é a paz do Plano da Morte que tinha antes de ser revivido.
+No momento ele continua trabalhando em pesquisas para criar uma manifestação física da força da alma de um indivíduo. Malgrim está trabalhando em [sua antiga base](../../../Lugares/Outros/Castelo%20do%20Malgrim.md) pois deseja ser encontrado novamente por um grupo capaz de derrotá-lo, pois tudo que deseja no momento é a paz do Plano da Morte que tinha antes de ser revivido.
 
 ## Aparência
 
@@ -28,15 +24,15 @@ Um zumbi humano usando um manto negro. A maior parte do seu corpo possui carne p
 
 Seu coração está parcialmente exposto, podendo ser visto através das costelas.
 
-![Miniatura do Malgrim](../../assets/images/malgrim-body.jpeg)
+![Miniatura do Malgrim](../../../assets/images/malgrim-body.jpeg)
 
 ## Ficha de Ameaça (ND 4)
 
 Morto-vivo Médio
 
-| PV                                                                               | Defesa | Deslocamento |
-| -------------------------------------------------------------------------------- | ------ | ------------ |
-| <input type="number" min="0" max="{{page.meta.MAX_PV}}" value="0"/> / {{ page.meta.MAX_PV }} | 24     | 9m           |
+| PV                                             | Defesa | Deslocamento |
+| ---------------------------------------------- | ------ | ------------ |
+| <input type="number" min="0" value="0"/> / 110 | 24     | 9m           |
 
 ### Atributos e Perícias
 
@@ -58,7 +54,7 @@ Morto-vivo Médio
 
 #### Fraqueza Zumbi
 
-O zumbi sofre o dobro de dano de acertos críticos ou de ataques feitos contra seu <s>cérebro</s> coração (Defesa 21). **Falar da fraqueza se eles acertarem um golpe corpo a corpo.**
+O zumbi sofre o dobro de dano de acertos críticos ou de ataques feitos contra seu <s>cérebro</s> coração (Defesa 34). **Falar da fraqueza se eles acertarem um golpe corpo a corpo.**
 
 #### Raio Elemental - Trevas
 
