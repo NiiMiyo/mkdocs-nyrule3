@@ -52,6 +52,8 @@ Morto-vivo Médio
 
 ### Habilidades
 
+#### Visão no Escuro
+
 #### Fraqueza Zumbi
 
 O zumbi sofre o dobro de dano de acertos críticos ou de ataques feitos contra seu <s>cérebro</s> coração (Defesa 34). **Falar da fraqueza se eles acertarem um golpe corpo a corpo.**
