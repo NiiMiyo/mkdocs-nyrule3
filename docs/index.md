@@ -11,7 +11,7 @@ Eu uso esse site pra organizar completamente tudo sobre o RPG, então se você j
 Nyrule é um mundo de alta fantasia medieval, repleto de magia, arcanistas, guerreiros, fadas, monstros e muito mais. É inspirado em Arton, o cenário oficial de [Tormenta 20](https://site.jamboeditora.com.br/tormenta20/), mas com sua própria história e origem.
 
 ![Mapa geográfico](assets/images/nyrule_map-geo.png)
-![Grid para viagem. Cada célula do grid são 8h de caminhada](assets/images/nyrule_map-grid.png)
+![Grid para viagem. Cada célula do grid são 4h de caminhada](assets/images/nyrule_map-grid.png)
 ![Mapa político](assets/images/nyrule_map-politic.png)
 
 Conforme a história avança o mapa também vai se modificando.
