@@ -13,3 +13,7 @@ A cidade conta com:
 
 ## Sessão 01
 Lyra, Iaris, Luciel e Venessa descobrem sobre o sequestro de Rue e a resgatam na Gruta de Sequestradores, na nascente do rio.
+
+## Sessão 02
+
+Durante a pesquisa na biblioteca, Venessa conta a Raki (a bibliotecária), que o prefeito a demitiu. Ela ficou arrasada e, depois de descobrir que era tudo uma mentira, está com raiva todo o grupo, e proibirá eles de acessar a biblioteca e os expulsará se os vir.
