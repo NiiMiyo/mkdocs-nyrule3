@@ -4,4 +4,4 @@
 
 ## Usar como catalisador
 
-Usar um Wish Crystal como catalisador diminui o custo da magia lançada em 10 PM, o que significa que seu limite de PM para lançar aquela magia aumenta em 10. Se a magia custar 10 PM ou menos, seu custo se torna zero em vez disso.
+Usar um Wish Crystal como catalisador diminui o custo da magia lançada em 10 PM, o que significa que seu limite de PM para lançar aquela magia também aumenta em 10. Se a magia custar 10 PM ou menos, seu custo se torna zero em vez disso. Ao lançar a magia, considere como se pudesse lançar magias de 5º Círculo para aplicar aprimoramentos.

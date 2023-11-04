@@ -11,6 +11,7 @@ Base de operações de Malgrim, onde ele faz experimentos com as pessoas sequest
 * T$ 1000 - Peças espalhadas na mesa e na bolsa de Malgrim
 * Wish Crystals (Ver [Tesouro do Malgrim](../../Personagens/NPCs/Vilões/Malgrim.md#tesouro))
 * Esotérico Superior - <abbr title="Esta varinha é feita a partir do osso de um morto-vivo. Suas magias causam +1d6 pontos de dano de trevas. Se estiver empunhando esta varinha você não recupera PV por efeitos mágicos de cura.">Costela de Lich</abbr> <abbr title=" A CD para resistir a suas magias aumenta em +1.">Poderosa</abbr>
+    * Esse osso é onde está armazenada a alma de Malgrim, se eles escolherem carregar a varinha com eles então Malgrim estará os acompanhando, ouvindo mas incapaz de falar algo.
 * 6000 XP (1500 para cada membro)
 
 <!-- O item que eu rolei originalmente era essa espada curta, mas eu achei meio estranho um necromante com uma espada então botei meu próprio item superior -->

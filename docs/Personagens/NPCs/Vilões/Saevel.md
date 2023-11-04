@@ -12,6 +12,10 @@ Há vinte anos atrás Saevel decidiu reviver Malgrim como um morto-vivo sob seu 
 
 Desde então Saevel está gradualmente chegando mais perto do seu objetivo e já desconfia que Malgrim está tramando algo contra ele, mas até o momento ele não pode fazer nada sobre, afinal Malgrim ainda está seguindo suas ordens e estudando uma forma de reviver Isao.
 
+### Sessão 02
+
+Após encontrar com os aventureiros, Saevel absorve as memórias e conhecimento de Malgrim, que estudava como dar forma física à alma de uma pessoa. Agora Saevel é capaz de conjurar uma espécie de "fumaça" negra que pode usar para se esconder ou lutar.
+
 ## Aparência
 
 Um elfo vampiro de pele acinzentada e cabelos longos e brancos usando uma roupa preta com capa. Sua aparência voltou a ser jovial quando se tornou um vampiro.
