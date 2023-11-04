@@ -76,3 +76,6 @@ plugins:
 
         - pattern: Crowhey( Semore)?
           page: docs/Personagens/NPCs/Crowhey.md
+
+        - pattern: Rue
+          page: docs/Personagens/NPCs/Rue.md
