@@ -79,3 +79,6 @@ plugins:
 
         - pattern: Rue
           page: docs/Personagens/NPCs/Rue.md
+
+        - pattern: Ostfer
+          page: docs/Personagens/NPCs/Ostfer.md
