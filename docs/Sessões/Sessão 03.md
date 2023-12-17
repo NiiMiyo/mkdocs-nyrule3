@@ -2,9 +2,10 @@
 
 ## Revisões
 
-* [Rue](../Personagens/NPCs/Rue.md)
-* [Sepell](../Lugares/Cidades/Sepell.md)
-* [Kenshima](../Lugares/Cidades/Kenshima.md)
+* Rue
+* Sepell
+* Kenshima
+* O Observador
 
 ## Planejamento
 

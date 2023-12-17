@@ -82,3 +82,6 @@ plugins:
 
         - pattern: Ostfer
           page: docs/Personagens/NPCs/Ostfer.md
+
+        - pattern: O Observador
+          page: docs/Personagens/NPCs/O_Observador.md
