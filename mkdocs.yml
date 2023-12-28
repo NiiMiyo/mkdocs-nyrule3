@@ -85,3 +85,18 @@ plugins:
 
         - pattern: O Observador
           page: docs/Personagens/NPCs/O_Observador.md
+
+        - pattern: Plano Material
+          page: docs/Lugares/Planos/Plano_Material.md
+
+        - pattern: Plano Etéreo
+          page: docs/Lugares/Planos/Plano_Etéreo.md
+
+        - pattern: Alma(s)?
+          page: docs/Worldbuild/Corpo_alma_mente.md#a-alma
+
+        - pattern: Corpo(s)?
+          page: docs/Worldbuild/Corpo_alma_mente.md#o-corpo
+
+        - pattern: Mente(s)?
+          page: docs/Worldbuild/Corpo_alma_mente.md#a-mente
