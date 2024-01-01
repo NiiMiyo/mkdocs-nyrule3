@@ -4,7 +4,7 @@
 
 Pra essa sessão eu não planejei praticamente nada. Eu não tinha como prever exatamente o que eles fariam durante a sessão já que a outra terminou no momento que eles entraram na biblioteca depois de derrotarem os sequestradores.
 
-Por conta disso eu preparei realmente só a [dungeon do Malgrim](../Lugares/Outros/Castelo%20do%20Malgrim.md) e a [ficha dele](../Personagens/NPCs/Vilões/Malgrim.md#ficha-de-ameaca-nd-4).
+Por conta disso eu preparei realmente só a [dungeon do Malgrim](../Lugares/Outros/Castelo_do_Malgrim.md) e a [ficha dele](../Personagens/NPCs/Vilões/Malgrim.md#ficha-de-ameaca-nd-4).
 
 Também tinha planejado para o grupo encontrar o Crowhey no meio da viagem, mas eles contrataram uma carroça e o carroceiro não faz parte do destino do Crowhey, então eles não viram ele. Provavelmente encontrarão ele na volta, já que o carroceiro foi embora sem eles.
 

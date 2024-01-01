@@ -2,9 +2,9 @@
 
 <!-- O espírito de Lilia Plenaflorum viverá -->
 
-Filha do prefeito de Sepell. Após ser [resgatada por Lyra](../../Sessões/Sessao%2001.md) começou um treinamento para se tornar uma espadachim mágica, semelhante à sua salvadora.
+Filha do prefeito de Sepell. Após ser [resgatada por Lyra](../../Sessões/Sessão_01.md) começou um treinamento para se tornar uma espadachim mágica, semelhante à sua salvadora.
 
-Após o [timeskip de onze meses](../../Sessões/Sessão%2003.md) já está um pouco habilidosa em sua arte, apesar de ainda falhar diversas de suas magias arcanas por conta do uso da armadura.
+Após o [timeskip de onze meses](../../Sessões/Sessão_03.md) já está um pouco habilidosa em sua arte, apesar de ainda falhar diversas de suas magias arcanas por conta do uso da armadura.
 
 ## Aparência
 
