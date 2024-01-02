@@ -1,0 +1,3 @@
+[submodule "mkdocs-pageref-plugin"]
+	path = mkdocs-pageref-plugin
+	url = https://github.com/NiiMiyo/mkdocs-pageref-plugin.git
