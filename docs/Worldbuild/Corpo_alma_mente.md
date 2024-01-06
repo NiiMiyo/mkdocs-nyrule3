@@ -43,3 +43,9 @@ A maioria destes são criados por magia, quando uma alma é forçadamente conect
 Fantasmas são um tipo especial de morto-vivo. São almas que adquiriram uma forma física no Plano Material, normalmente por uso de magia.
 
 Por ser feito apenas de energia, um fantasma não possui Corpo e normalmente não pode interagir com o Plano Material, exceto por ser visível e poder falar, ver e ouvir. A maioria das vezes fantasmas são translúcidos e apresentam apenas uma cor, branca ou cinza, sendo mais distinguíveis por sua forma do que as cores que apresentam. Alguns também podem emitir um leve brilho.
+
+## Jogadores
+
+Jogadores são entidades especiais vindas de outros lugares ou planos e que acabam por habitar Nyrule. Na maioria das vezes são Almas que interceptam a Mente de outra criatura, fazendo com que aquela criatura possua duas almas.
+
+Por conta d'A Corrupção, um nyruleano é incapaz de perceber a diferença entre uma criatura antes e depois de se tornar um Jogador, mas criaturas não-nyruleanas podem ser capazes de naturalmente sentir a presença de um Jogador.

@@ -100,3 +100,9 @@ plugins:
 
         - pattern: Mente(s)?
           page: docs/Worldbuild/Corpo_alma_mente.md#a-mente
+
+        - pattern: Jogador(es)?
+          page: docs/Worldbuild/Corpo_alma_mente.md#jogadores
+
+        - pattern: A Corrupção
+          page: docs/Worldbuild/A_Corrupção.md
