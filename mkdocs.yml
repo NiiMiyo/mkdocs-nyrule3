@@ -27,6 +27,9 @@ extra_css:
 plugins:
   - search
   - macros
+  - redirects:
+      redirect_maps:
+        Lugares/Plano_Material/Nyrule/Nyrule.md: index.md#o-mundo-de-nyrule
   - pageref:
       matches:
         - pattern: Nyrule
@@ -36,10 +39,10 @@ plugins:
           page: docs/Objetos/Wish_Crystal.md
 
         - pattern: Sepell
-          page: docs/Lugares/Cidades/Sepell.md
+          page: docs/Lugares/Plano_Material/Nyrule/Ermos/Sepell.md
 
         - pattern: Eldenhaven
-          page: docs/Lugares/Cidades/Eldenhaven.md
+          page: docs/Lugares/Plano_Material/Nyrule/Ampáfica/Eldenhaven.md
 
         - pattern: Malgrim(, o Mago das Almas)?
           page: docs/Personagens/NPCs/Vilões/Malgrim.md
@@ -66,10 +69,10 @@ plugins:
           page: docs/Worldbuild/Kumite_Raposa.md
 
         - pattern: Wishrealm(, o Mundo dos Desejos)?
-          page: docs/Lugares/Planos/Wishrealm.md
+          page: docs/Lugares/Wishrealm.md
 
         - pattern: Kenshima
-          page: docs/Lugares/Cidades/Kenshima.md
+          page: docs/Lugares/Plano_Material/Nyrule/Ermos/Kenshima.md
 
         - pattern: Apoçãotrar o Crowhey
           page: docs/Objetos/Apocaotrar_Crowhey.md
@@ -87,10 +90,10 @@ plugins:
           page: docs/Personagens/NPCs/O_Observador.md
 
         - pattern: Plano Material
-          page: docs/Lugares/Planos/Plano_Material.md
+          page: docs/Lugares/Plano_Material/index.md
 
         - pattern: Plano Etéreo
-          page: docs/Lugares/Planos/Plano_Etéreo.md
+          page: docs/Lugares/Plano_Etéreo.md
 
         - pattern: Alma(s)?
           page: docs/Worldbuild/Corpo_alma_mente.md#a-alma

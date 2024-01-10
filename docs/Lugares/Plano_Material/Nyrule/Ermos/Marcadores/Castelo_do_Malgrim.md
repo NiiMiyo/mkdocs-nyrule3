@@ -4,12 +4,12 @@ Base de operações de Malgrim, onde ele faz experimentos com as pessoas sequest
 
 # Primeiro encontro com Malgrim
 
-![Castelo do Malgrim. X é terreno difícil, as criaturas são <a href="#ficha---zumbi">Zumbis</a>](../../assets/images/castelo-do-malgrim.png)
+![Castelo do Malgrim. X é terreno difícil, as criaturas são <a href="#ficha---zumbi">Zumbis</a>](../../../../../assets/images/castelo-do-malgrim.png)
 
 ## Tesouros
 
 * T$ 1000 - Peças espalhadas na mesa e na bolsa de Malgrim
-* Wish Crystals (Ver [Tesouro do Malgrim](../../Personagens/NPCs/Vilões/Malgrim.md#tesouro))
+* Wish Crystals (Ver [Tesouro do Malgrim](../../../../../Personagens/NPCs/Vilões/Malgrim.md#tesouro))
 * Esotérico Superior - <abbr title="Esta varinha é feita a partir do osso de um morto-vivo. Suas magias causam +1d6 pontos de dano de trevas. Se estiver empunhando esta varinha você não recupera PV por efeitos mágicos de cura.">Costela de Lich</abbr> <abbr title=" A CD para resistir a suas magias aumenta em +1.">Poderosa</abbr>
     * Esse osso é onde está armazenada a alma de Malgrim, se eles escolherem carregar a varinha com eles então Malgrim estará os acompanhando, ouvindo mas incapaz de falar algo.
 * 6000 XP (1500 para cada membro)

@@ -4,5 +4,5 @@ O Plano Etéreo é onde residem as Almas e a energia que as forma. Não possui m
 
 ## Ver também
 
-- [Plano Material](./Plano_Material.md)
-- [Corpo, Mente e Alma](../../Worldbuild/Corpo_alma_mente.md)
+- [Plano Material](./Plano_Material/index.md)
+- [Corpo, Mente e Alma](../Worldbuild/Corpo_alma_mente.md)

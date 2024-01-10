@@ -1,6 +1,6 @@
 # Gruta de Sequestradores
 
-Gruta onde os sequestradores de Rue se escondiam. Se encontra à noroeste de [Sepell](../Cidades/Sepell.md), na nascente de um rio.
+Gruta onde os sequestradores de Rue se escondiam. Se encontra à noroeste de [Sepell](../Sepell.md), na nascente de um rio.
 
 ## Sessão 01
 

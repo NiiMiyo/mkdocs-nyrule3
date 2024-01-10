@@ -4,5 +4,5 @@ O Plano Material, também chamado de _Mundo Físico_ ou _Real_, é onde tudo que
 
 ## Ver também
 
-- [Plano Etéreo](./Plano_Etéreo.md)
+- [Plano Etéreo](../Plano_Etéreo.md)
 - [Corpo, Mente e Alma](../../Worldbuild/Corpo_alma_mente.md)

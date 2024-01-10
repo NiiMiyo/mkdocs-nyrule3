@@ -16,7 +16,7 @@ Foi revivido como servo de Saevel Caiphine para que continue suas pesquisas em a
 
 Malgrim foi capaz de encontrar uma brecha nas ordens de Saevel e pôde lançar **Marionete** em si mesmo para recobrar o controle do próprio corpo zumbificado sem que Saevel saiba. Mesmo assim, o controle adquirido é limitado à fala.
 
-No momento ele continua trabalhando em pesquisas para criar uma manifestação física da força da alma de um indivíduo. Malgrim está trabalhando em [sua antiga base](../../../Lugares/Outros/Castelo_do_Malgrim.md) pois deseja ser encontrado novamente por um grupo capaz de derrotá-lo, pois tudo que deseja no momento é a paz do Plano da Morte que tinha antes de ser revivido.
+No momento ele continua trabalhando em pesquisas para criar uma manifestação física da força da alma de um indivíduo. Malgrim está trabalhando em [sua antiga base](../../../Lugares/Plano_Material/Nyrule/Ermos/Marcadores/Castelo_do_Malgrim.md) pois deseja ser encontrado novamente por um grupo capaz de derrotá-lo, pois tudo que deseja no momento é a paz do Plano da Morte que tinha antes de ser revivido.
 
 ## Aparência
 
