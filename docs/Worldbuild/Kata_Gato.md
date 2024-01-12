@@ -1,3 +1,6 @@
+---
+pageref-pattern: Kata da Pata de Gato
+---
 # Kata da Pata de Gato
 
 O Kata da Pata de Gato é um estilo de artes marcial baseado na destreza e habilidades de um gato. Os lutadores usam de golpes diretos e velozes para acertar seu oponente.

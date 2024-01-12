@@ -1,3 +1,6 @@
+---
+pageref-pattern: Crowhey( Semore)?
+---
 # Crowhey Semore
 
 O "melhor alquimista de Nyrule", como ele mesmo diz, apesar de muitos que o conhecem concordarem. Crowhey vende poções que nenhum outro alquimista consegue fazer. Suas poções são simplesmente ilogicamente poderosas, com efeitos que nenhuma magia já registrada foi capaz de alcançar.

@@ -1,3 +1,6 @@
+---
+pageref-pattern: Sepell
+---
 # Sepell
 
 Uma cidade portuária, famosa por servir de passagem para vários aventureiros e pela biblioteca local. O prefeito Balthazar é um velho simpático, pai solteiro de uma filha, Rue.

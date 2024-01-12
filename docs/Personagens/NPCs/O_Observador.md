@@ -1,3 +1,6 @@
+---
+pageref-pattern: O Observador
+---
 # O Observador
 
 Um ser de outra dimensão conhecido apenas como "O Observador", uma vez que seu nome real é impronunciável. Sua função não é clara, mas ele parece passar todo o tempo em sua casa fora do plano material observando tudo que acontece em toda a Nyrule.

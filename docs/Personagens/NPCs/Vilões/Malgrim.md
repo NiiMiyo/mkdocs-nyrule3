@@ -1,3 +1,6 @@
+---
+pageref-pattern: Malgrim(, o Mago das Almas)?
+---
 # Malgrim, o Mago das Almas
 
 ## Backstory

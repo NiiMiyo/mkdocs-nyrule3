@@ -1,3 +1,6 @@
+---
+pageref-pattern: Wish Crystal(s)?
+---
 # Wish Crystal
 
 **Wish Crystals** são cristais azulados e brilhantes que se formam nas pedras do local próximo ao portal para o **Mundo dos Desejos**. Esses pequenos cristais mágicos guardam grandes reservas de mana e são gerados pelo constante fluxo de mana que vaza do portal por conta do enfraquecimento do selo do Desirebane.

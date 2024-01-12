@@ -1,3 +1,6 @@
+---
+pageref-pattern: Rue
+---
 # Rue
 
 <!-- O espírito de Lilia Plenaflorum viverá -->

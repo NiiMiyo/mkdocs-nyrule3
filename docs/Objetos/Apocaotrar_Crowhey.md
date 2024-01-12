@@ -1,3 +1,6 @@
+---
+pageref-pattern: Apoçãotrar o Crowhey
+---
 # Apoçãotrar o Crowhey
 
 Uma poção que só pode ser fabricada pelo Crowhey Semore.

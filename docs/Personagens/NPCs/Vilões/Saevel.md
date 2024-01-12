@@ -1,3 +1,6 @@
+---
+pageref-pattern: Saevel( Caiphine)?
+---
 # Saevel Caiphine
 
 ## Backstory

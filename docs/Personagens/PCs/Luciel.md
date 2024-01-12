@@ -1,3 +1,6 @@
+---
+pageref-pattern: Luciel
+---
 # Luciel
 
 Um suraggel com três pares de asas nas costas surgido misteriosamente em Nialson. Foi adotado por um casal de médicos e, pouco tempo depois, seu pai adotivo morre devido a uma doença desconhecida. Luciel então é considerado um mau presságio pelos moradores.

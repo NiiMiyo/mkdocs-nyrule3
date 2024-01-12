@@ -1,3 +1,6 @@
+---
+pageref-pattern: A Corrupção
+---
 # A Corrupção
 
 Assim como cada um dos outros planetas no Plano Material, Nyrule tem suas próprias peculiaridades em se tratando de estranhezas indescritíveis para os habitantes de outros lugares. Nyrule é um lugar de continuação, que não possui início ou fim, a história está sempre sendo contada do meio. Este conceito atravessa as leis da natureza do próprio planeta.

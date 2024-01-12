@@ -1,3 +1,6 @@
+---
+pageref-pattern: Lyra( Windsong)?
+---
 # Lyra Windsong
 
 Uma qareen meio-humana de uma descendência misteriosa de qareens capazes de controlar os sonhos. Nasceu e cresceu em Eldenhaven, um pequeno reino ao norte da Central.

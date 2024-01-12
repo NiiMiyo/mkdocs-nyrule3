@@ -1,3 +1,6 @@
+---
+pageref-pattern: Central
+---
 # Central
 
 ## Fonte Primordial
