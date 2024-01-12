@@ -1,12 +1,8 @@
-site_name: Nyrule 3
+site_name: Nyrule Wiki
 
 theme:
   name: pulse
-  locale: pt
   navigation_depth: 3
-  prev_next_buttons_location: bottom
-  collapse_navigation: true
-  logo: /assets/images/logo.png
 
 markdown_extensions:
   - markdown_captions
@@ -23,6 +19,7 @@ extra_css:
   - assets/css/input.css
   - assets/css/blockquote.css
   - assets/css/ul.css
+  - assets/css/next_prev.css
 
 plugins:
   - search
@@ -109,3 +106,6 @@ plugins:
 
         - pattern: A Corrupção
           page: docs/Worldbuild/A_Corrupção.md
+
+        - pattern: Central
+          page: docs/Lugares/Plano_Material/Nyrule/Ampáfica/Central.md
