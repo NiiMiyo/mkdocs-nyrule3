@@ -27,16 +27,4 @@ plugins:
   - redirects:
       redirect_maps:
         Lugares/Plano_Material/Nyrule/Nyrule.md: index.md#o-mundo-de-nyrule
-  - pageref:
-      matches:
-        - pattern: Alma(s)?
-          page: /Worldbuild/Corpo_alma_mente#a-alma
-
-        - pattern: Corpo(s)?
-          page: /Worldbuild/Corpo_alma_mente#o-corpo
-
-        - pattern: Mente(s)?
-          page: /Worldbuild/Corpo_alma_mente#a-mente
-
-        - pattern: Jogador(es)?
-          page: /Worldbuild/Corpo_alma_mente#jogadores
+  - pageref

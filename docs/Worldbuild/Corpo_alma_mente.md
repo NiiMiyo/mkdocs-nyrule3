@@ -1,3 +1,11 @@
+---
+pageref-subpatterns:
+   o-corpo: Corpo(s)?
+   a-alma: Alma(s)?
+   a-mente: Mente(s)?
+   jogadores: Jogador(es)?
+   fantasmas: Fantasma(s)?
+---
 # Corpo, Mente e Alma
 
 Tudo que possui vida e vontade própria, incluindo pessoas, animais, plantas e fungos, é formado por três partes principais: o Corpo, a Alma e a Mente.
