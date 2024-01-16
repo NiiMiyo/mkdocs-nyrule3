@@ -29,7 +29,7 @@ PyYAML==6.0.1
 pyyaml_env_tag==0.1
 regex==2022.10.31
 requests==2.31.0
-setuptools==65.5.0
+setuptools==65.5.1
 six==1.16.0
 soupsieve==2.5
 termcolor==2.3.0
