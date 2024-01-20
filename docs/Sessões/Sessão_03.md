@@ -13,6 +13,10 @@ Pra essa sessão eu quero algo mais tranquilo, nada de combate mortal, isso se t
 
 Acho que Larissa está começando a ficar levemente impaciente com a irmã dela, porque ela sempre pergunta pra todo mundo sobre o grupo Desírios mas ninguém nunca sabe de nada, então precisamos de alguém que saiba de algo nessa sessão.
 
+### A Corrupção
+
+Como demorou bastante entre a última sessão e essa eu acabei implementando algumas coisas novas. Uma dessas coisas é que Spell agora é populada principalmente por moreaus e o prefeito e Rue agora são moreaus também. Se acontecer deles irem pra Sepell então vão precisar estranhar o fato de que agora quase todo mundo é moreau.
+
 ### Cena 1 - Observador
 
 Em referência ao Nyrule 1, mestrado pelo Hayate, vamos colocar eles para falar com O Observador. Lyra acorda na frente da casa dele, flutuando, enquanto os outros estão "dormindo" e translúcidos. Ela vê o piso de blocos de terra flutuando em direção a um bloco maior com uma casa simples de madeira. Ao entrar ela encontra O Observador, que irá conversar com eles sobre o que aconteceu, lembrando que ele não falará nada que eles já não saibam (na teoria, na prática eu quero que eles descubram coisas novas nesse diálogo).

@@ -3,20 +3,44 @@ pageref-pattern: Sepell
 ---
 # Sepell
 
-Uma cidade portuária, famosa por servir de passagem para vários aventureiros e pela biblioteca local. O prefeito Balthazar é um velho simpático, pai solteiro de uma filha, Rue.
+Uma vila portuária, famosa por servir de passagem para vários aventureiros e pela biblioteca local.
 
-A cidade conta com:
+## População
 
-* Uma taverna, chamada O Chifre do Dragão; e uma hospedagem, chamada Rosa de [Vatur](https://drive.google.com/file/d/1J2zcetbjedUHTGTudo2SqApTUgFzl5kM/view?usp=sharing "Vatur é o Deus Menor das Caçadas (Fan made)");
-* Uma grande igreja para o Deus Oceano;
-* Uma igreja um pouco menor para Tanna-Toh;
-* Uma igreja compartilhada entre outras divindades positivas e neutras, sendo essas Khalmyr, Allihanna e Marah;
-* Uma grande biblioteca com livros sobre diversos conteúdos, especialmente história e política;
-* Uma pequena feira durante o dia que vende todos os tipos de produtos mais comuns.
+O povo de Sepell é em sua maioria moreau de várias origens, com as mais comuns sendo os meio-gatos e meio-coelhos, porém nem todos são moreaus. Alguns habitantes que vem de fora se apaixonam pela calmaria e simplicidade da vida nessa comunidade e decidem morar por aqui também.
 
-## Sessão 01
-Lyra, Iaris, Luciel e Venessa descobrem sobre o sequestro de Rue e a resgatam na Gruta de Sequestradores, na nascente do rio.
+## Política
 
-## Sessão 02
+A vila conta com um sistema democrático em que a cada dois anos todos os habitantes de idade (20 anos ou mais) votam em alguém para se tornar o prefeito pelos próximos dois anos.
 
-Durante a pesquisa na biblioteca, Venessa conta a Raki (a bibliotecária), que o prefeito a demitiu. Ela ficou arrasada e, depois de descobrir que era tudo uma mentira, está com raiva todo o grupo, e proibirá eles de acessar a biblioteca e os expulsará se os vir.
+Atualmente o prefeito é Balthazar há 14 anos, um moreau meio-gato de meia idade e muito simpático. Pai solteiro de uma filha também moreau meio-gato, Rue.
+
+## Locais de interesse
+
+### O Chifre do Dragão
+
+Uma pequena taverna ao noroeste do centro da vila. O dono, um ex-aventureiro, diz que esse nome é por conta da vez em que sua arma quebrou durante um combate com um dragão e ele precisou arrancar o chifre da criatura e matá-la com ele. Estranhamente, não existem relatos desse evento além do dele.
+
+### Rosa de Vatur
+
+Uma hospedagem próxima à praça ao centro da vila. Seu primeiro andar conta com um pequeno bar onde os hóspedes podem comprar comidas e bebidas, enquanto no segundo andar estão os quartos disponíveis.
+
+### Biblioteca
+
+Uma grande biblioteca com livros sobre diversos conteúdos, em especial história e política de toda Nyrule.
+
+### Feira
+
+Durante o dia, próximo à praça no centro da vila, há uma pequena feira com produtos produzidos localmente, incluindo alimentos, bebidas, comidas e até mesmo um alquimista iniciante, que produz alguns remédios.
+
+### Igreja para Oceano
+
+Uma igreja de tamanho razoável para o Deus Oceano não poderia faltar em uma vila porteira.
+
+### Igreja para Tanna-Toh
+
+Uma igreja menor para Tanna-Toh.
+
+### Igreja compartilhada
+
+Uma pequena igreja compartilhada para todos os devotos de outras divindades positivas e neutras, em especial Khalmyr, Allihanna e Marah.
