@@ -1,6 +1,6 @@
 ---
 pageref-subpatterns:
-   o-corpo: Corpo(s)?
+   o-corpo: Corpo(s)?(?!( |-)a\2corpo)
    a-alma: Alma(s)?
    a-mente: Mente(s)?
    jogadores: Jogador(es)?
