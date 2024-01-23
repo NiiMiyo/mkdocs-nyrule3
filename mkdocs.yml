@@ -4,6 +4,9 @@ theme:
   name: pulse
   navigation_depth: 3
 
+repo_url: https://github.com/NiiMiyo/mkdocs-nyrule3/
+edit_uri: blob/main/docs/
+
 markdown_extensions:
   - markdown_captions
   - tables

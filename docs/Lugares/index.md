@@ -1,6 +1,6 @@
 # Planos
 
-Planos são dimensões diferentes do Universo, lugares com sua própria lógica e física, quanto estas sequer existem.
+Planos são dimensões diferentes do Universo, lugares com sua própria lógica e física, quando estas sequer existem.
 
 Um plano é um lugar separado de todos os outros lugares. A maioria dos planos é pequena, se limitando à uma área similar à de uma grande cidade ou uma floresta, mas outros planos beiram o infinito, enquanto outros sequer possuem o conceito de espaço ou tempo. Todos os deuses maiores possuem seu próprio plano, onde governam livremente e possuem controle quase completo sobre tudo.
 

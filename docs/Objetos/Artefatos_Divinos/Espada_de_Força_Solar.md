@@ -14,3 +14,7 @@ Enquanto estiver carregada, você pode gastar uma ação de movimento e 2 PM par
 *[espada longa]: 1d8, 19, Corte
 *[formidável]: A arma é encantada para desferir golpes precisos. Ela fornece +2 em testes de ataque e rolagens de dano.
 *[ofuscadas]: O personagem sofre –2 em testes de ataque e de Percepção. _Sentidos_.
+
+## [Sessão Spin-Off 01](../../Sessões/Spin-offs/Spinoff_01.md#historia)
+
+A espada se encontra na Terra do Crepúsculo, em que o grupo de "heróis" a deixou lá sem supervisão, esperando para ser pega.
