@@ -1,3 +1,6 @@
+---
+pageref-pattern: Ampáfica
+---
 # Ampáfica
 
 Ampáfica é o maior e mais poderoso governo de toda Nyrule e se localiza no centro do planeta. Ampáfica foi fundada por Dabia Semore, no local onde hoje é a Central, pouco após o primeiro contato humano com outra raça, os elfos.

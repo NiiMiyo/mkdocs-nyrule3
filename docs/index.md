@@ -22,9 +22,9 @@ Conforme a história avança o mapa também vai se modificando.
 
 ### Geo-Política
 
-No centro de Nyrule temos Ampáfica, um reino majoritariamente de humanos, mas que acolhe todas as outras raças. Sua capital, a Central, é a maior cidade do continente.
+No centro de Nyrule temos Ampáfica, um reino de humanos fundado há séculos atrás pela família Semore. Sua capital, a Central, é a maior cidade do continente.
 
-Ao noroeste temos a Floresta do Elfo, com a capital sendo Nairi Disfrada. Como o nome implica, sua população é quase que exclusivamente de elfos. Eles são bem cuidadosos com estranhos, mas confiam em amigos mesmo que de raças diferentes.
+Ao noroeste temos a Floresta do Elfo, com a capital sendo Nairi Disfrada. Como o nome implica, sua população é majoritariamente élfica, mas também possuem outras raças em menor quantidade, como dahllans e moreaus. Eles são bem cuidadosos com estranhos, mas confiam em amigos mesmo que de raças diferentes.
 
 Ao sudoeste temos os Grandes Espinhos, uma enorme cadeia de montanhas. Dentro dessas montanhas está Beradhrim, um sistema de túneis e cavernas criado pelos anões.
 
