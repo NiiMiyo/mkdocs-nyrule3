@@ -1,5 +1,5 @@
 # Sessão 02.1
-Okay, com o pouco tempo que eu tenho até a próxima sessão eu preciso preparar algo pra mestrar para o Vectra e a Amna. É a primeira sessão deles e é uma sessão intermediária entre a [Sessão 02](./Sessão_02.md) e a [Sessão 03](./Sessão_03.md) da mesa principal. Lembrando que vão ser duas sessões de tutorial (ou três dependendo da minha força de vontade e tempo livre).
+Okay, com o pouco tempo que eu tenho até a próxima sessão eu preciso preparar algo pra mestrar para o Vectra e a Amna. É a primeira sessão deles e é uma sessão intermediária entre a [Sessão 02](./Sessão_02-0.md) e a [Sessão 03](./Sessão_03.md) da mesa principal. Lembrando que vão ser duas sessões de tutorial (ou três dependendo da minha força de vontade e tempo livre).
 
 ## Objetivos da sessão
 1. Relacionar eles com a storyline principal, seja com o Malgrim ou com o Saevel;
