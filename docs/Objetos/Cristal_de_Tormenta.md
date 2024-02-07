@@ -1,5 +1,5 @@
 ---
-pageref-pattern: "[Cc]rista(?:l|is) de Tormenta"
+pageref-pattern: "[Cc]rista(?:l|is) d[ae] Tormenta"
 ---
 # Cristal de Tormenta
 
