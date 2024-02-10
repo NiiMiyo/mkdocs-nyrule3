@@ -1,8 +1,4 @@
-[role="main"] .table td,
-[role="main"] .table th {
-	text-align: center;
-
-	border-color: #000;
-	border-width: 1px;
-	border-style: solid;
+.md-content table td,
+.md-content table th {
+	text-align: center !important;
 }
