@@ -2,6 +2,14 @@ site_name: Nyrule Wiki
 
 theme:
   name: material
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
+    - toc.integrate
   palette:
     - scheme: default
       media: "(prefers-color-scheme: light)"
@@ -29,17 +37,11 @@ markdown_extensions:
   - attr_list
 
 extra_css:
-  - assets/css/gallery.css
   - assets/css/justify.css
-  - assets/css/headers.css
-  - assets/css/toc-collapse.css
-  - assets/css/navbar-collapse.css
   - assets/css/link.css
   - assets/css/table.css
-  - assets/css/input.css
   - assets/css/blockquote.css
   - assets/css/ul.css
-  - assets/css/next_prev.css
 
 plugins:
   - search

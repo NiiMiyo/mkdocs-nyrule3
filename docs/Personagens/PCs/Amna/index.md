@@ -19,3 +19,7 @@ Amna, em seus últimos momentos de vida, suplica para que qualquer divindade que
 A equipe de um qareen inventor que passava pelo deserto encontrou a qareen e a resgatou, levando-a para uma cidade próxima.
 
 Ela deve recuperar suas memórias para entender sua essência e se desenvolver completamente, mas terá que fazer uma escolha difícil em relação ao seu passado.
+
+## Galeria
+
+![Amna](./amna-fullbody.jpg)

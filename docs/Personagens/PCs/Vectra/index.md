@@ -11,3 +11,6 @@ Fugiu com sua amada para o Deserto Sem Retorno, um lugar muito distante, mas nã
 Em seus últimos segundos de vida, uma pequena fada surge e o toca, dando um pequeno sorriso e desaparecendo no ar. Graças ao toque da fada, Vectra "sobreviveu" àquele dia em que todos os outros pereceram. Naquele dia fez dois juramentos para si mesmo. Jurou vingança e jurou encontrar uma forma de ter sua amada de volta em seus braços. Mas logo percebeu que sua vida não voltou como imaginou. Suas feridas não se curavam e dias depois sua carne começou a apodrecer e cair, revelando o que Vectra havia se tornado, um esqueleto ambulante.
 
 Em busca de poder, encontrou em um antigo manuscrito uma breve citação sobre uma magia proibida capaz de trazê-la de volta e dar a vingança que ele busca. Atualmente está vagando pelo mundo tentando encontrar a direção para dominar essa magia.
+
+## Galeria
+![Vectra](./vectra-fullbody.jpg)

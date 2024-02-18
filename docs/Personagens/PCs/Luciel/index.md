@@ -19,3 +19,6 @@ Um vilarejo isolado, dominado pela tormenta. Todos os moradores foram infectados
 ## Grupo de Paladinos
 
 Responsáveis por salvar Luciel do ataque de sua mãe, quando se transformou em lefeu. Acolheram e cuidaram de Luciel.
+
+## Galeria
+![Luciel](./luciel-fullbody.jpg)

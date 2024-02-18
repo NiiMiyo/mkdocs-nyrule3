@@ -13,3 +13,6 @@ Cinco anos depois disso, os aldeões da vila onde morava se enfurecem e invadem 
 Em um de seus experimentos, Venessa tenta fazer um portal para a “dimensão verdadeira” e, após 10 dias montando o portal para essa dimensão, no seu teste os outros cientistas do laboratório, incluindo seu mentor, foram interrompê-la e acabaram sendo puxados para o portal, causando a explosão da máquina destruindo o equivalente a um quarteirão.
 
 Agora está a procura de um novo local para fazer seus experimentos.
+
+## Galeria
+![Venessa](./venessa-fullbody.jpg)

@@ -70,8 +70,5 @@ No seu aniversário de 18 anos sua irmã desaparece misteriosamente e agora Lyra
 ## [Ficha Automática no Google Spreadsheets](https://docs.google.com/spreadsheets/d/1vJ8J6lAk8CXkqEiG_mhXqTotBcfpCafflydU-jUDAAQ/edit#gid=1711337807?usp=sharing)
 
 ## Galeria
-
-<div class="gallery">
-	<img src="/assets/images/lyra_windsong-portrait.jpg"/>
-	<img src="/assets/images/lyra_windsong-body.jpg"/>
-</div>
+![Lyra Windsong](./lyra-fullbody.jpg)
+![Lyra Windsong](./lyra-portrait.jpg)
