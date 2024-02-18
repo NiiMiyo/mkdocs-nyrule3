@@ -1,6 +1,7 @@
 ---
 pageref-subpatterns:
-   o-mundo-de-nyrule: Nyrule
+   o-mundo-de-nyrule:
+      - Nyrule
 ---
 # Nyrule 3
 

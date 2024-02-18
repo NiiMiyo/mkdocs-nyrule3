@@ -1,5 +1,7 @@
 ---
-pageref-pattern: Wishrealm(, o Mundo dos Desejos)?
+pageref-patterns:
+   - Wishrealm, o Mundo dos Desejos
+   - Wishrealm
 ---
 # Wishrealm, o Mundo dos Desejos
 

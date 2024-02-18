@@ -1,5 +1,7 @@
 ---
-pageref-pattern: Plano Material
+pageref-patterns:
+   - Plano Material
+   - plano material
 ---
 # Plano Material
 

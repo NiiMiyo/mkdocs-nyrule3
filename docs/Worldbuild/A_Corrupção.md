@@ -1,5 +1,6 @@
 ---
-pageref-pattern: A Corrupção
+pageref-patterns:
+   - A Corrupção
 ---
 # A Corrupção
 

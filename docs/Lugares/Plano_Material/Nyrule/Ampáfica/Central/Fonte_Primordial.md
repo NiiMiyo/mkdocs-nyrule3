@@ -1,5 +1,6 @@
 ---
-pageref-pattern: (A )?Fonte Primordial
+pageref-patterns:
+   - Fonte Primordial
 ---
 # Fonte Primordial
 

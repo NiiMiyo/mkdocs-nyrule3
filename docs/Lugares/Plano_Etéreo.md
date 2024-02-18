@@ -1,5 +1,7 @@
 ---
-pageref-pattern: Plano Etéreo
+pageref-patterns:
+   - Plano Etéreo
+   - plano etéreo
 ---
 # Plano Etéreo
 

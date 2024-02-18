@@ -1,5 +1,6 @@
 ---
-pageref-pattern: Iaris
+pageref-patterns:
+   - Iaris
 ---
 # Iaris
 

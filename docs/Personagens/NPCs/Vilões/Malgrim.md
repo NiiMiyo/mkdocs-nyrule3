@@ -1,5 +1,7 @@
 ---
-pageref-pattern: Malgrim(, o Mago das Almas)?
+pageref-patterns:
+   - Malgrim, o Mago das Almas
+   - Malgrim
 ---
 # Malgrim, o Mago das Almas
 

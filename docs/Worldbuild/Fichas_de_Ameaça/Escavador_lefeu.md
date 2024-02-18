@@ -1,5 +1,9 @@
 ---
-pageref-pattern: "[Ee]scavador(?:es)? [Ll]efeu"
+pageref-patterns:
+   - Escavador Lefeu
+   - Escavadores Lefeu
+   - escavador lefeu
+   - escavadores lefeu
 ---
 # Escavador Lefeu
 Pequenas criaturas que mais parecem vermes, vivem nas Áreas de Tormenta e proximidades e se aproximam silenciosamente de suas vítimas por baixo do solo. Atacam em bando e encurralando suas vítimas para pegá-los desprevenidos.

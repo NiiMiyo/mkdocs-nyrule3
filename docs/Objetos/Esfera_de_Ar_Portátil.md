@@ -1,5 +1,6 @@
 ---
-pageref-pattern: Esfera de Ar Portátil
+pageref-patterns:
+   - Esfera de Ar Portátil
 ---
 # Esfera de Ar Portátil
 

@@ -1,5 +1,6 @@
 ---
-pageref-pattern: Vectra
+pageref-patterns:
+   - Vectra
 ---
 # Vectra
 

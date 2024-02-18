@@ -1,5 +1,6 @@
 ---
-pageref-pattern: Luciel
+pageref-patterns:
+   - Luciel
 ---
 # Luciel
 

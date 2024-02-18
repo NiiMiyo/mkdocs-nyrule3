@@ -1,5 +1,7 @@
 ---
-pageref-pattern: Elrophin(, Deus da Vaidade)?
+pageref-patterns:
+   - Elrophin, Deus da Vaidade
+   - Elrophin
 ---
 # Elrophin, Deus da Vaidade
 

@@ -1,5 +1,6 @@
 ---
-pageref-pattern: O Observador
+pageref-patterns:
+   - O Observador
 ---
 # O Observador
 

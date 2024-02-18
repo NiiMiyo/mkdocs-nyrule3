@@ -1,3 +1,10 @@
+---
+pageref-patterns:
+   - Castelo do Malgrim
+   - Castelo de Malgrim
+   - castelo do Malgrim
+   - castelo de Malgrim
+---
 # Ruínas do castelo de Malgrim
 
 Base de operações de Malgrim, onde ele faz experimentos com as pessoas sequestradas.

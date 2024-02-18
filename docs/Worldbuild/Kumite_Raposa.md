@@ -1,5 +1,6 @@
 ---
-pageref-pattern: Kumite da Raposa
+pageref-patterns:
+   - Kumite da Raposa
 ---
 # Kumite da Raposa
 

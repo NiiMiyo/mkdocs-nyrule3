@@ -1,5 +1,7 @@
 ---
-pageref-pattern: Saevel( Caiphine)?
+pageref-patterns:
+   - Saevel Caiphine
+   - Saevel
 ---
 # Saevel Caiphine
 

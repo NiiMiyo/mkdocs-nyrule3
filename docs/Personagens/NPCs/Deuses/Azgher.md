@@ -1,5 +1,8 @@
 ---
-pageref-pattern: (Azgher(, (O )?Deus-Sol)?)|((O )?Deus-Sol)
+pageref-patterns:
+   - Azgher, O Deus-Sol
+   - Azgher
+   - Deus-Sol
 ---
 # Azgher, Deus-Sol
 

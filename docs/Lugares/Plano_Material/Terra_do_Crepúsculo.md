@@ -1,5 +1,6 @@
 ---
-pageref-pattern: Terra do Crepúsculo
+pageref-patterns:
+   - Terra do Crepúsculo
 ---
 # Terra do Crepúsculo
 

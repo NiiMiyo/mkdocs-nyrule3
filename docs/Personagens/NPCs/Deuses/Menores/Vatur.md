@@ -1,5 +1,7 @@
 ---
-pageref-pattern: Vatur(, Deus das Caçadas)?
+pageref-patterns:
+   - Vatur, O Deus das Caçadas
+   - Vatur
 ---
 # Vatur, Deus das Caçadas
 

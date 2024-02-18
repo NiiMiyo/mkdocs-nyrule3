@@ -47,5 +47,4 @@ plugins:
   - redirects:
       redirect_maps:
         Lugares/Plano_Material/Nyrule/Nyrule.md: index.md#o-mundo-de-nyrule
-  - pageref:
-      main_selector: ".md-content"
+  - pageref

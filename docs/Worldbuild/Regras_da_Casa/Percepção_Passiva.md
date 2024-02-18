@@ -1,5 +1,7 @@
 ---
-pageref-pattern: "[Pp]ercepção [Pp]assiva"
+pageref-patterns:
+   - Percepção passiva
+   - percepção passiva
 ---
 # Percepção passiva
 

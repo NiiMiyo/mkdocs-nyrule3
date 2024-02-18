@@ -1,10 +1,15 @@
 ---
 pageref-subpatterns:
-   o-corpo: Corpo(s)?(?!( |-)a\2corpo)
-   a-alma: Alma(s)?
-   a-mente: Mente(s)?
-   jogadores: Jogador(es)?
-   fantasmas: Fantasma(s)?
+   o-corpo:
+      - Corpo
+   a-alma:
+      - Alma
+   a-mente:
+      - Mente
+   jogadores:
+      - Jogador
+   fantasmas:
+      - Fantasma
 ---
 # Corpo, Mente e Alma
 

@@ -1,5 +1,7 @@
 ---
-pageref-pattern: Lyra( Windsong)?
+pageref-patterns:
+   - Lyra Windsong
+   - Lyra
 ---
 # Lyra Windsong
 

@@ -1,5 +1,6 @@
 ---
-pageref-pattern: Amna
+pageref-patterns:
+   - Amna
 ---
 # Amna
 

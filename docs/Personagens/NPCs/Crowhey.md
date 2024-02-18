@@ -1,5 +1,7 @@
 ---
-pageref-pattern: Crowhey( Semore)?
+pageref-patterns:
+   - Crowhey Semore
+   - Crowhey
 ---
 # Crowhey Semore
 

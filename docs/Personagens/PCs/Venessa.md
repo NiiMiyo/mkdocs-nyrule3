@@ -1,5 +1,6 @@
 ---
-pageref-pattern: Venessa
+pageref-patterns:
+   - Venessa
 ---
 # Venessa
 

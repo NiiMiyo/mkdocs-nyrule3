@@ -1,5 +1,6 @@
 ---
-pageref-pattern: (A )?Espada de Força Solar
+pageref-patterns:
+   - Espada de Força Solar
 ---
 # Espada de Força Solar
 

@@ -1,5 +1,9 @@
 ---
-pageref-pattern: Wish Crystal(s)?
+pageref-patterns:
+   - Wish Crystal
+   - Wish Crystals
+   - wish crystal
+   - wish crystals
 ---
 # Wish Crystal
 

@@ -1,5 +1,6 @@
 ---
-pageref-pattern: Central
+pageref-patterns:
+   - Central
 ---
 # Central
 
@@ -11,7 +12,7 @@ Na Central é onde estão os governantes de Ampáfica, a família Semore, em sua
 
 ## Locais de interesse
 
-### [Fonte Primordial](./Fonte_Primordial.md)
+### Fonte Primordial
 
 Marca o centro da cidade e o local de fundação da grande Ampáfica.
 

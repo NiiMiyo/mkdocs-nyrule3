@@ -1,5 +1,6 @@
 ---
-pageref-pattern: Floresta do Elfo
+pageref-patterns:
+   - Floresta do Elfo
 ---
 # Floresta do Elfo
 

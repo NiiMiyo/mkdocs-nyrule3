@@ -1,5 +1,6 @@
 ---
-pageref-pattern: Ampáfica
+pageref-patterns:
+   - Ampáfica
 ---
 # Ampáfica
 

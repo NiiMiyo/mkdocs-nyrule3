@@ -1,5 +1,7 @@
 ---
-pageref-pattern: Ostfer
+pageref-patterns:
+   - Ostfer
+   - Amdiela
 ---
 # Ostfer
 

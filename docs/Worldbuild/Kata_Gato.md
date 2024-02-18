@@ -1,5 +1,6 @@
 ---
-pageref-pattern: Kata da Pata de Gato
+pageref-patterns:
+   - Kata da Pata de Gato
 ---
 # Kata da Pata de Gato
 

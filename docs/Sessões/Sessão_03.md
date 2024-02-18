@@ -1,12 +1,4 @@
 # Sessão 03
-
-## Revisões
-
-* Rue
-* Sepell
-* Kenshima
-* O Observador
-
 ## Planejamento
 
 Pra essa sessão eu quero algo mais tranquilo, nada de combate mortal, isso se tiver um combate. Espero que seja mais tranquilão, sem mortes que eu precise evitar.

@@ -1,5 +1,6 @@
 ---
-pageref-pattern: Eldenhaven
+pageref-patterns:
+   - Eldenhaven
 ---
 # Eldenhaven
 

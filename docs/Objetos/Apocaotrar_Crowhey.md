@@ -1,5 +1,6 @@
 ---
-pageref-pattern: Apoçãotrar o Crowhey
+pageref-patterns:
+   - Apoçãotrar o Crowhey
 ---
 # Apoçãotrar o Crowhey
 

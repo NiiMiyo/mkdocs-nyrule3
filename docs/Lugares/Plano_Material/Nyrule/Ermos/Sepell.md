@@ -1,5 +1,6 @@
 ---
-pageref-pattern: Sepell
+pageref-patterns:
+   - Sepell
 ---
 # Sepell
 

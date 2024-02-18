@@ -1,5 +1,6 @@
 ---
-pageref-pattern: Rue
+pageref-patterns:
+   - Rue
 ---
 # Rue
 
